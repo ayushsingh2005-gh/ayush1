@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1655261601 source:c:\users\adones\downloads\c++ project\cafeteria_order_c\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+
